@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+classifier.joblib
+confusion_matrix.png
+.DS_Store
+project_repo/
